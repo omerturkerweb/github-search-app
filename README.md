@@ -1,3 +1,30 @@
+
+# Github OpenSource Search App
+
+I made it github profile search app using official github api.
+
+    
+## Used Technologies
+
+- React
+- TailwindCss
+- Spinners , Icons
+
+
+## Screenshots
+
+![ScreenShot](https://img001.prntscr.com/file/img001/qpVchIePRJy3_ZqoZdm03Q.png)
+
+![ScreenShot](https://img001.prntscr.com/file/img001/R2nge5ukTZimFTc1etNSIQ.png)
+
+![ScreenShot](https://img001.prntscr.com/file/img001/pr8CZaGiQJWHKvXbdZJA3w.png)
+
+## API's I Used
+
+for profile - https://api.github.com/users/{@githubusername}
+for repos - https://api.github.com/users/{@githubusername}/repos
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
